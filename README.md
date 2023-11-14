@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @samucao1803
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello! Welcome to my Github profile.
+## My name is Samuel Lima Horta and my nickname is "Shimu"!
 
-<!---
-samucao1803/samucao1803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently studing Systems Engineering at the Federal University of Minas Gerais.
+- 🌱 I’m currently learning C++ and Object-Oriented Programming.
+- 👯 I’m looking to criate and collaborate on different types of systems.
+- 🤔 I’m looking for help with new programming languages (HTML, CSS, Python, C#).
+
